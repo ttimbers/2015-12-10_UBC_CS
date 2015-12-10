@@ -1,8 +1,8 @@
 ![alt tag](img/header.png)
 
-<center>Tiffany A. Timbers, Ph.D.</center>
+<center>Tiffany A. Timbers, Ph.D.</br></center>
 <center>Banting Postdoctoral Fellow</br></center>
-<center>Simon Fraser University,</center><center>8888 University Drive,Burnaby, </br>BC, Canada V5A 1S6 </center>
+<center>Simon Fraser University,</br></center><center>8888 University Drive, Burnaby, </br>BC, Canada V5A 1S6 </center>
 
 <center>tel. 604-803-4962 </br>
 email. tiffany.timbers@gmail.com </center>
