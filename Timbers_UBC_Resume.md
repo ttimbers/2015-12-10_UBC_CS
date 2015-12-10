@@ -30,25 +30,25 @@ Augusta, MI, Aug. 24 - 28, 2015 </br>
 	
 	Advanced Analysis of Next-Generation Sequencing Data – Intensive one week summer course will introduce attendees with a strong biology background and an intermediate computational background to doing reproducible research using Docker, AWS Cloud Computing, version control with Git/Github and RMarkdown, as well as how to perform genome assembly, differential expression analysis, genome-wide association analysis, and RNAseq pathway analysis.
 	
-3. Mentorship Sub-committee member, Software Carpentry </br> http://software-carpentry.org </br> March, 2015 – Present 
+3. Mentorship Sub-committee member, Software Carpentry </br> http://software-carpentry.org </br> Mar. 2015 – Present 
 
 	The Software Carpentry Foundation is a non-profit organization whose instructors teach scientists and researchers basic software skills.</br>	* Held post-workshop debriefing for instructors </br>	* Developed micro-lesson training step in the Software Carpentry Instructor Certification Program </br>
 	* Organized 1st ever [Software + Data Carpentry Instructor & Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/)
 
-4. Instructor, Software Carpentry </br> http://software-carpentry.org, January, 2015 – Present 	* Taught 7 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).	* Created new challenge questions to probe student learning during the workshop	* Implemented a new pedagogical approach to teaching version control and collaboration
+4. Instructor, Software Carpentry </br> http://software-carpentry.org </br> Jan. 2015 – Present 	* Taught 7 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).	* Created new challenge questions to probe student learning during the workshop	* Implemented a new pedagogical approach to teaching version control and collaboration
 
-5. Instructor, University of British Columbia, Vancouver, BC </br> January – April, 2011 </br>
+5. Instructor, University of British Columbia, Vancouver, BC </br> Jan. – Apr. 2011 </br>
 
 	PSYC 306 – Principles of Animal Behavior (for B.Sc. Psychology Majors - approx. 100 students). Theory of evolution; behavioral genetics; social systems as ecological adaptation; mating and parental strategies; instinct and learning; evolution of human behavior. 6. Teaching Assistant, University of British Columbia, Vancouver, BC </br> 2006 – 2011
 
 	* PSYC 306 – Principles of Animal Behavior
 	* PSYC 363 – Principles of Animal Learning
-	* PSYC 368 – Perceptual Processing 7. Teaching Assistant, Marine Biological Laboratory, Woods Hole, MA </br> July 2008
+	* PSYC 368 – Perceptual Processing 7. Teaching Assistant, Marine Biological Laboratory, Woods Hole, MA </br> Jul. 2008
 
 	Neural Systems and Behavior (graduate level course - approx. 25 students). I was the teaching assistant for 2 weeks of an intensive 8-week laboratory and lecture course focusing on the neural basis of behavior, including the cellular and synaptic levels, sensory and motor systems, neurogenetics, and the analysis of complex systems.Intended for graduate students, postdoctoral students, and independent investigators who wish to gain a broad perspective on neural systems and how they produce behavior.
 
 8. Teaching Assistant, Carleton University, Ottawa, ON </br> 
-January – April, 2005
+Jan. – Apr. 2005
 
 	* BIOL 3802 – Animal Behavior ### SUPERVISORY EXPERIENCE:During my doctoral and postdoctoral training I have supervised 16 undergraduate student projects that ranged from short (2-3 months) volunteer projects to year-long undergraduate theses and co-op projects. I have been responsible for planning projects, training students, holding regular progress report meetings with students, and grading. I have learned to alter my supervisory style to best suit the learning style of each student, to give positive but constructive feedback, and to design projects that are appropriate for the student’s skill level and project timeline. Many of the students I supervised have been successful at obtaining further opportunities to accelerate their careers following their work with me. The first student I supervised, Arya Mehran, is now a Ph.D. candidate at UBC studying molecular signaling. A co-op student, Jing (Morgana) Xu, is now a Master’s student at the BC Cancer Agency. Mavis Chan is now engaged in a Medical Laboratory Science Advanced Diploma Program at the Michener Institute. Kirsten Lee is now attending Dentistry School at Western University. Joshua Lai is now in Medical School at UBC where he hopes to complete an M.D.-Ph.D. 
 
