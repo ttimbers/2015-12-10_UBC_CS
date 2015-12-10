@@ -128,13 +128,12 @@ S.L., and Rankin, C.H. (*under Revision at **PNAS***: MS\# 2014-07400).
 CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory
 responding and learning in *C. elegans.*
 
-2\. Jensen, V.L.\*, Mohan, S.\*, **Timbers, T.A.\***, Li, C., Sanders,
+2\. Jensen, V.L.\*, Mohan, S.\*, **Timbers, T.A.**\*, Li, C., Sanders,
 A.W.M., Ishikawa, H., Boldt, K., van Reeuwijk, J., Textier, Y., Mans, D.A., Horn, N., van Beersum, S.E.C.,
 Letteboer, S.J.F., Ueffing, M.,Marshall, W.F., Blacque, O.E., Morin, R.M., Roepman, R., and Leroux,
 M.R.(under Review at **EMBO Reports**: EMBOR-2014-39749V2-Q).
 Whole-organism developmental expression profiling identifies novel
-ciliary components, including Wdr60, whose properties reveal a new model for the regulation of retrograde intraflagellar transport. **\* authors
-contributed equally**
+ciliary components, including Wdr60, whose properties reveal a new model for the regulation of retrograde intraflagellar transport. \*** authors contributed equally**
 
 ### MANUSCRIPTS IN PREPARATION:
 
