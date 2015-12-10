@@ -60,12 +60,12 @@ Rand Mahoumad*
 *Tahereh Bozorgmehr, M.Sc. Biology</br>
 Cell and Developmental Graduate Program </br> Brain Research Centre*
 
-### c. Letter of Teaching Effectiveness
+### b. Letter of Teaching Effectiveness
 
 ![alt tag](img/Teaching_Eff_Letter_P1.png)
 ![alt tag](img/Teaching_Eff_Letter_P2.png)
 
-### b. Instructor Teaching Evaluations
+### c. Instructor Teaching Evaluations
 
 ![alt tag](img/student_eval_p1.png)
 ![alt tag](img/student_eval_p2.png)
